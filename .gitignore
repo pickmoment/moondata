@@ -1,5 +1,7 @@
 psds_data/
 *.db
+*.xlsx
+*.pickle
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
