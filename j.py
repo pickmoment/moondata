@@ -35,7 +35,7 @@ async def index(request):
     b = jp.Button(text='Read', click=read, a=wp, classes=button_classes)
     return wp
 
-jp.justpy(index)
+# jp.justpy(index)
 
 
 
