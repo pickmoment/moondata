@@ -2,6 +2,7 @@ psds_data/
 *.db
 *.xlsx
 *.pickle
+*.config
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
